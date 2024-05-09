@@ -43,7 +43,7 @@
     "husky": "7.0.4",
     "isomorphic-unfetch": "4.0.2",
     "moment": "2.29.4",
-    "next": "^13.4.19",
+    "next": "^14.1.1",
     "postcss": "8.4.29",
     "prettier": "3.0.3",
     "prop-types": "15.8.1",
